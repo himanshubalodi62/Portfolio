@@ -1,7 +1,7 @@
-index.md
+
 # Data Analyst / Data Scientist Portfolio
 
-> - [About Me](#about-me)
+> - [About Me]  (#about-me)
 > - [What I'm Practicing](#what-im-practicing)
 > - [Projects & Samples](#projects--samples)
 > - [Services](#services)
@@ -89,10 +89,9 @@ I bring analytical thinking, clear communication, and practical solutions to eve
 
 Open to opportunities, collaboration, and networking.
 
-- **GitHub:** https://github.com/himanshubalodi62  
-- **LinkedIn:** https://www.linkedin.com/in/himanshu-balodi-54931124b/  
-- **Email:** himanshubalodi62@gmail.com  
+- **GitHub:** https://github.com/himanshubalodi62 
+- **LinkedIn:**  https://www.linkedin.com/in/himanshu-balodi-54931124b/  
+- **Email:** himanshubalodi62@gmail.com
 - **Resume:**  
-  https://drive.google.com/file/d/1GjVAPMUaQTcUkF_K8SWr3brT1Ohdg8Hz/view
 
 ---
