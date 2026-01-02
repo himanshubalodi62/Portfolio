@@ -1,0 +1,52 @@
+default .html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: "Portfolio | Himanshu Balodi" }}</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#2563eb">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+
+  <header class="page-header">
+    <h1 class="project-name">Himanshu Balodi</h1>
+    <p class="project-tagline">
+      Data Analyst | Data Scientist <br>
+      Transforming Data into Actionable Insights
+    </p>
+
+    <nav class="nav">
+      <a href="#about">About</a>
+      <a href="#practice">Practice</a>
+      <a href="#projects">Projects</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main id="content" class="main-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      © 2026 Himanshu Balodi · Built with GitHub Pages
+    </p>
+    <p>
+      <a href="https://github.com/himanshubalodi62">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/himanshu-balodi-54931124b/">LinkedIn</a>
+    </p>
+  </footer>
+
+</body>
+</html>
