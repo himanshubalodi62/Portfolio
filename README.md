@@ -1,80 +1,121 @@
 # Profile
-# Technical Writer Portfolio
-> - [About me] https://github.com/himanshubalodi62
-> - [What I'm Practicing](https://a234asthana.github.io/Portfolio/#:~:text=and%20end%2Dusers.-,What%20I%E2%80%99m%20Practicing,-As%20a%20committed)
-> - [Samples](https://a234asthana.github.io/Portfolio/#:~:text=and%20user%20comprehension.-,Samples,-API)
-> - [Services](https://a234asthana.github.io/Portfolio/#:~:text=SOP-,Services,-Taking%20on%20New)
-> - [How to Reach me](https://a234asthana.github.io/Portfolio/#:~:text=SOP-,How%20to%20reach%20me,-Open%20to%20new)
 
-## About me
 
-- My name is Anupriya Asthana and I have over eight years of experience in technical writing. I hold a Master's degree in Communication Engineering. As a technical writer experienced in software documentation, I enjoy simplifying complex technical concepts into user-friendly documentation that bridges the gap between developers, stakeholders, and end-users.
+# Data Analyst / Data Scientist Portfolio
+
+> - [About Me](#about-me)
+> - 
+> - [What I'm Practicing](#what-im-practicing)
+> - 
+> - [Projects & Samples](#projects--samples)
+> - 
+> - [Services](#services)
+> - 
+> - [How to Reach Me](#how-to-reach-me)
+
+---
+
+## About Me
+
+My name is **Himanshu Balodi**, a Data Analyst / Data Scientist from India with hands-on experience in data analysis, machine learning,
+
+and business intelligence.
+
+I specialize in transforming raw data into actionable insights that support strategic decision-making. I enjoy solving complex problems
+
+using statistics, data visualization, and machine learning models, and I am passionate about building scalable, data-driven solutions for 
+
+real-world business challenges.
+
+---
 
 ## What I'm Practicing
 
-As a committed Technical Writer, I am constantly refining a variety of skills to ensure my documentation is clear and precise. Here are some key areas I'm focusing on:
+As a committed data professional, I continuously sharpen my skills across analytics, data science, and engineering.
 
-### AI-Enhanced Content Craft
-- **Conversational Design:** Designing chatbot flows and interactive writing assistants for websites and platforms.
-- **Tool Prototyping:** Creating content cards and planning tools for dynamic storytelling and guided input.
-- **Smart Summarization:** Transforming long-form articles into voice-ready and mobile-friendly content.
-- **Search Optimization:** Structuring content for semantic search; experimenting with metadata and prompt engineering.
-- **User Experience Engineering:** Reimagining static blog formats as interactive journeys; prototyping AI-driven layouts for deeper engagement.
 
-### Types of Documentation
-- **API Documentation:** Writing clear and comprehensive API documentation to help developers understand and use APIs effectively.
-- **Product Documentation:** Creating detailed product manuals and guides to assist users in understanding and utilizing products.
-- **Help Guides:** Developing user-friendly help guides and FAQs to provide quick solutions to common issues.
-- **Release Notes:** Compiling release notes to inform users about new features, improvements, and bug fixes in every release.
-- **Feature Requests:** Documenting feature requests and feedback to assist product development.
-- **Blogs and Articles:** Writing informative and engaging blog posts and articles to share knowledge and insights with a broader audience.
+### Data Analysis & Visualization
 
-### Writing Excellence
-- **Clear and Concise Writing:** Creating content that is straightforward, free of unnecessary jargon, and accessible to a broad audience.
-- **Grammar and Style:** Upholding high standards of grammar, punctuation, and stylistic consistency to produce polished documents.
+- Exploratory Data Analysis (EDA) using Python
+- KPI dashboards using Power BI
+- Business storytelling with data
+- SQL-based reporting and performance analysis
 
-### Technical Expertise
-- **Subject Matter Knowledge:** Gaining a deep understanding of the technologies and products I document, and staying updated with the latest industry trends.
-- **Simplifying Technical Jargon:** Translating complex technical terms into user-friendly language that can be easily understood by non-technical users.
+### Machine Learning & AI
 
-### Research Proficiency
-- **Comprehensive Research:** Conducting thorough research to gather accurate information from reliable sources.
-- **Data Extraction:** Efficiently extracting relevant data from large volumes of information to support my writing.
+- Supervised & Unsupervised Learning
+- Credit Card Fraud Detection
+- Feature engineering & model evaluation
+- Model deployment fundamentals
 
-### Communication Skills
-- **Effective Communication:** Engaging with stakeholders, including engineers and product managers, to gather detailed information and clarify requirements.
-- **Collaboration:** Working closely with cross-functional teams to ensure the accuracy and completeness of documentation.
+### Statistics & Analytics
 
-### Editing and Proofreading
-- **Attention to Detail:** Meticulously reviewing content to identify and correct errors, ensuring high-quality documentation.
-- **Consistency Checks:** Ensuring consistency in terminology, formatting, and style across all documents.
+- Descriptive & Inferential Statistics
+- Hypothesis testing
+- Probability & distributions
+- Data-driven decision making
 
-### User Experience (UX) Design
-- **User-Centric Documentation:** Creating documentation that enhances the user experience by being intuitive and easy to navigate.
-- **Feedback Integration:** Incorporating user feedback to continuously improve the quality and usability of documentation.
+### Tools & Technologies
 
-### Tools and Technologies
-- **Documentation Tools:** Proficient in using various documentation tools and platforms such as Markdown, HTML, and content management systems (CMS).
-- **Version Control:** Utilizing version control systems like Git to manage and track changes in documentation.
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **BI Tools:** Power BI
+- **Databases:** MySQL, MongoDB
+- **Dev Tools:** Git, Docker, Flask, AWS (Basics)
 
-By focusing on these areas, I aim to produce high-quality technical documentation that effectively bridges the gap between complex technical concepts and user comprehension.
+---
 
-## Samples
-- [API](https://a234asthana.github.io/Portfolio/API/SWAPI_APIDocumentation.pdf)
-- [Blogs](https://a234asthana.github.io/Portfolio/Blogs/Links.html)
-- [Case Studies](https://a234asthana.github.io/Portfolio/Case%20Studies/forguncycasestudy.html)
-- [Change Request/BRD](https://a234asthana.github.io/Portfolio/Change%20Request/sampleChangeRequest.html)
-- [Help Guide](https://a234asthana.github.io/Portfolio/Help%20Guide/Manual_Help%20Guide%20Documentation%20Process%20using%20markdown.html)
-- [SOP](https://a234asthana.github.io/Portfolio/SOP/Database%20Backup%20SOP.pdf)
+## Projects & Samples
+
+
+- **Credit Card Fraud Detection**
+  - Machine learning model to identify fraudulent transactions
+  - Feature engineering, imbalance handling, and evaluation
+
+- **Employee Performance Analysis**
+  - Power BI dashboard with department-wise KPIs
+  - DAX measures and visual insights
+
+- **SQL Case Studies**
+  - Salary gap analysis
+  - Business-driven SQL queries using CTEs and window functions
+
+- **Python Data Analysis Projects**
+  - Customer behavior analysis
+  - Sales and revenue insights
+
+https://github.com/himanshubalodi62/Thyroid_Disease-_Detection_project
+
+.......
+https://github.com/himanshubalodi62/aps-fault-detection-Project
+
+---
 
 ## Services
-Taking on New Clients!
 
-I help companies shape their documentation and communication strategies — now with a growing focus on AI-enhanced content. Whether you need clear, concise documentation, conversational UX, or a scalable communications plan, I bring clarity and innovation to the table.
-Let’s connect to discuss your needs and my reasonable rates.
+Taking on **new opportunities** 🚀  
 
-## How to Contact me
-Open to new opportunities and networking! Contact me for writing requirements:
-- GitHub: https://github.com/himanshubalodi62
-- LinkedIn: https://www.linkedin.com/in/himanshu-balodi-54931124b/
-- Email: himanshubalodi62@gmail.com
+I help businesses and teams with:
+- Data analysis & reporting
+- Power BI dashboard development
+- SQL query optimization
+- Machine learning model development (entry–intermediate)
+- Data cleaning & preprocessing
+
+I bring analytical thinking, clear communication, and practical solutions to every project.
+
+---
+
+## How to Reach Me
+
+Open to opportunities, collaboration, and networking.
+
+- **GitHub:** https://github.com/himanshubalodi62
+- 
+- **LinkedIn:**  https://www.linkedin.com/in/himanshu-balodi-54931124b/
+-   
+- **Email:** himanshubalodi62@gmail.com
+- 
+- **Resume:**  
+
+---
