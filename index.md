@@ -83,6 +83,8 @@ As a committed data professional, I continuously sharpen my skills across analyt
   - Sales and revenue insights
 
 https://github.com/himanshubalodi62/Thyroid_Disease-_Detection_project
+
+.......
 https://github.com/himanshubalodi62/aps-fault-detection-Project
 
 ---
