@@ -1,19 +1,29 @@
 
 # Data Analyst / Data Scientist Portfolio
 
-> - [About Me]  (#about-me)
+> - [About Me](#about-me)
+> - 
 > - [What I'm Practicing](#what-im-practicing)
+> - 
 > - [Projects & Samples](#projects--samples)
+> - 
 > - [Services](#services)
+> - 
 > - [How to Reach Me](#how-to-reach-me)
 
 ---
 
 ## About Me
 
-My name is **Himanshu Balodi**, a Data Analyst / Data Scientist from India with hands-on experience in data analysis, machine learning, and business intelligence.
+My name is **Himanshu Balodi**, a Data Analyst / Data Scientist from India with hands-on experience in data analysis, machine learning,
 
-I specialize in transforming raw data into actionable insights that support strategic decision-making. I enjoy solving complex problems using statistics, data visualization, and machine learning models, and I am passionate about building scalable, data-driven solutions for real-world business challenges.
+and business intelligence.
+
+I specialize in transforming raw data into actionable insights that support strategic decision-making. I enjoy solving complex problems
+
+using statistics, data visualization, and machine learning models, and I am passionate about building scalable, data-driven solutions for 
+
+real-world business challenges.
 
 ---
 
@@ -21,25 +31,30 @@ I specialize in transforming raw data into actionable insights that support stra
 
 As a committed data professional, I continuously sharpen my skills across analytics, data science, and engineering.
 
+
 ### Data Analysis & Visualization
+
 - Exploratory Data Analysis (EDA) using Python
 - KPI dashboards using Power BI
 - Business storytelling with data
 - SQL-based reporting and performance analysis
 
 ### Machine Learning & AI
+
 - Supervised & Unsupervised Learning
 - Credit Card Fraud Detection
 - Feature engineering & model evaluation
 - Model deployment fundamentals
 
 ### Statistics & Analytics
+
 - Descriptive & Inferential Statistics
 - Hypothesis testing
 - Probability & distributions
 - Data-driven decision making
 
 ### Tools & Technologies
+
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **BI Tools:** Power BI
@@ -49,6 +64,7 @@ As a committed data professional, I continuously sharpen my skills across analyt
 ---
 
 ## Projects & Samples
+
 
 - **Credit Card Fraud Detection**
   - Machine learning model to identify fraudulent transactions
@@ -66,7 +82,8 @@ As a committed data professional, I continuously sharpen my skills across analyt
   - Customer behavior analysis
   - Sales and revenue insights
 
-*(Project repositories and dashboards will be linked here)*
+https://github.com/himanshubalodi62/Thyroid_Disease-_Detection_project
+https://github.com/himanshubalodi62/aps-fault-detection-Project
 
 ---
 
@@ -89,9 +106,12 @@ I bring analytical thinking, clear communication, and practical solutions to eve
 
 Open to opportunities, collaboration, and networking.
 
-- **GitHub:** https://github.com/himanshubalodi62 
-- **LinkedIn:**  https://www.linkedin.com/in/himanshu-balodi-54931124b/  
+- **GitHub:** https://github.com/himanshubalodi62
+- 
+- **LinkedIn:**  https://www.linkedin.com/in/himanshu-balodi-54931124b/
+-   
 - **Email:** himanshubalodi62@gmail.com
+- 
 - **Resume:**  
 
 ---
