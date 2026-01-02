@@ -1,6 +1,6 @@
 # Profile
 # Technical Writer Portfolio
-> - [About me](https://a234asthana.github.io/Portfolio/#:~:text=Technical%20Writer%20Portfolio-,About%20Me,-My%20name%20is)
+> - [About me] https://github.com/himanshubalodi62
 > - [What I'm Practicing](https://a234asthana.github.io/Portfolio/#:~:text=and%20end%2Dusers.-,What%20I%E2%80%99m%20Practicing,-As%20a%20committed)
 > - [Samples](https://a234asthana.github.io/Portfolio/#:~:text=and%20user%20comprehension.-,Samples,-API)
 > - [Services](https://a234asthana.github.io/Portfolio/#:~:text=SOP-,Services,-Taking%20on%20New)
@@ -75,6 +75,6 @@ Let’s connect to discuss your needs and my reasonable rates.
 
 ## How to Contact me
 Open to new opportunities and networking! Contact me for writing requirements:
-- GitHub: [@a234asthana](https://github.com/a234asthana)
-- LinkedIn: [https://www.linkedin.com/in/a234asthana/](https://www.linkedin.com/in/a234asthana/)
-- Email: a234asthana@gmail.com
+- GitHub: https://github.com/himanshubalodi62
+- LinkedIn: https://www.linkedin.com/in/himanshu-balodi-54931124b/
+- Email: himanshubalodi62@gmail.com
